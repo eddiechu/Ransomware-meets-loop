@@ -7,7 +7,7 @@ What if the ransomware traverse a endless sub folder ...
 ###### Build loop
 1. Open command prompt, go to test folder, e.g. C:\Temp
 2. Create a sub folder named !loop_for_ransomware (The first visible character is '!' according to ASCII table)
-3. run "cd !loop_for_ransomware"
+3. run ``cd !loop_for_ransomware``
 4. run "mklink /d one ..\!loop_for_ransomware"
 5. run "mklink /d two ..\!loop_for_ransomware"
 

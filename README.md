@@ -16,9 +16,9 @@ What if the ransomware traverse a endless sub folder ...
 2. run "for /R %x in (*.*) do ren "%x" *.test"
 
 ###### Result
-you can see only the first level of file in the parent folder is affected, the files under subfolder have no change, because the "operation" is looped in the subfolder of !loop_for_ransomware
+You can see only the first level of file in the parent folder is affected, the files under subfolder have no change, because the "operation" is looped in the subfolder of !loop_for_ransomware
 
-###### P.S. please exclude this folder #loop_for_ransomware in the antivirus schedule scan and backup software
+###### P.S. Please exclude this folder #loop_for_ransomware in the antivirus schedule scan and backup software
 
 ###### reference
 https://ss64.com/nt/mklink.html

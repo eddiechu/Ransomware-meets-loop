@@ -21,6 +21,6 @@ You can see only the first level of file in the parent folder is affected, the f
 
 ###### P.S. Please exclude this folder ``#loop_for_ransomware`` in the antivirus schedule scan and backup software
 
-###### reference
+###### Reference
 https://ss64.com/nt/mklink.html
 

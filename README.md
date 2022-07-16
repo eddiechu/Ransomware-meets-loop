@@ -19,7 +19,7 @@ What if the ransomware meets an endless subfolder ...
 ###### Result
 You can see only the first level of file in the parent folder is affected, the files under subfolder have no change, because the "ransomware operation" is looped in the subfolder of ``!loop_for_ransomware``
 
-###### P.S. Exclude this folder ``#loop_for_ransomware`` in the antivirus schedule scan and backup software
+###### P.S. Exclude this folder ``!loop_for_ransomware`` in the antivirus schedule scan and backup software
 
 ###### Reference
 https://ss64.com/nt/mklink.html

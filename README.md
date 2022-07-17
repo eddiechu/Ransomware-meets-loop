@@ -4,7 +4,7 @@ Ransomware encrypts all files and subfolder files in such as Pictures, Documents
 
 What if the ransomware meets an endless subfolder ...
 
-![alt text](https://raw.githubusercontent.com/eddiechu//Ransomware-meets-loop/raw/main/image/loop1.gif)
+![alt text](https://github.com/eddiechu/Ransomware-meets-loop/blob/main/image/loop1.gif?raw=true)
 
 ###### Build loop folder
 1. Open command prompt, go to test folder, e.g. C:\Temp

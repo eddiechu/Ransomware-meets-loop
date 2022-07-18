@@ -26,3 +26,23 @@ You can see only the first level files in the parent folder is affected, the fil
 ###### Reference
 https://ss64.com/nt/mklink.html
 
+#
+
+ransomware simulation
+ransomware assessment
+eddie chu
+eddiechu.android@gmail.com
+anti-ransomware
+endpoint test
+infosec
+security
+cyber security
+cybersecurity
+incident response
+hacker
+antimalware
+anti-malware
+defense
+testing
+pentest
+penetration test

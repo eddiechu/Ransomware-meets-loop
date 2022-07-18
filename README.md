@@ -16,7 +16,7 @@ What if the ransomware meets an endless subfolder ...
 
 ###### Test
 1. Open command prompt, go to test folder, e.g. C:\Temp
-2. run ``for /R %x in (*.*) do ren "%x" *.test``, to simulate "ransomware operation"
+2. run ``for /R %x in (.) do ren "%x" *.test``, to simulate "ransomware operation"
 
 ###### Result
 You can see only the first level files in the parent folder is affected, the files under subfolder have no change, because the "ransomware operation" is looped in the subfolder of ``!loop_for_ransomware``

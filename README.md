@@ -46,3 +46,4 @@ defense
 testing
 pentest
 penetration test
+Running wheel for Ransomware
